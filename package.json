@@ -24,5 +24,8 @@
     "nodemon": "^2.0.4",
     "uuid": "^8.1.0",
     "uuidv1": "^1.6.14"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.0.0"
   }
 }
